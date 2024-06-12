@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/nolim/.config/nvim'
+let g:netrw_dirhist_8='/home/nolim/.config'
+let g:netrw_dirhist_7='/home/nolim/.config/nvim'
+let g:netrw_dirhist_6='/home/nolim/.config'
+let g:netrw_dirhist_5='/home/nolim'
+let g:netrw_dirhist_4='/home/nolim/.local/share/nvim/plugged'
+let g:netrw_dirhist_3='/home/nolim/.local/share/nvim/plugged/fzf.vim'
+let g:netrw_dirhist_2='/home/nolim/.local/share/nvim/plugged'
+let g:netrw_dirhist_1='/home/nolim/nvim-tutor'
+let g:netrw_dirhist_0='/home/nolim/.local/share/nvim/plugged/fzf'
